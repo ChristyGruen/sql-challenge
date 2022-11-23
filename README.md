@@ -1,11 +1,33 @@
-# Unit 9 Homework: Employee Database
 
-## Background
+#  <span style="color:green"> **Unit 9 Homework: Employee Database**  </span>
+## <span style="color:red"> Chris</span> <span style="color:orange"> Gruen</span><span style="color:yellow">hagen</span> <span style="color:green">23</span><span style="color:blue">Nov</span><span style="color:purple">2022</span>
+
+Homework saved in the EmployeeSQL directory in the sql-challenge repository 
+
+Data Modeling:
+* ERD_logical.png
+* ERD_physical.png
+
+Data Engineering:
+* sqlchallenge_data_engineering.sql
+
+Data Analysis:
+* sqlchallenge_data_analysis.sql
+
+Bonus Analysis in Pandas:
+*sql_challenge_bonus.ipynb
+
+--
+
+### <span style="color:forestgreen"> ***See below for original homework instructions*** </span>
+
+
+## <span style="color:tan"> Background</span>
 
 It’s a beautiful spring day, and it’s been two weeks since you were hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform **data modeling**, **data engineering**, and **data analysis**.
-## Before You Begin
+## <span style="color:tan"> Before You Begin</span>
 
 1. Create a new repository for this project called `sql-challenge`. **Do not add this homework assignment to an existing repository**.
 
@@ -17,15 +39,15 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 5. Push these changes to GitHub.
 
-## Instructions
+## <span style="color:tan"> Instructions</span>
 
 This assignment is divided into three parts: data modeling, data engineering, and data analysis. 
 
-#### Data Modeling
+#### <span style="color:seagreen"> Data Modeling</span>
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
-#### Data Engineering
+#### <span style="color:seagreen">  Data Engineering</span>
 
 * Use the provided information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
@@ -37,7 +59,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 
   > **Hint:** To avoid errors, be sure to import the data in the same order that the tables were created. Also remember to account for the headers when importing.
 
-#### Data Analysis
+#### <span style="color:seagreen"> Data Analysis</span>
 
 Once you have a complete database, perform these steps:
 
@@ -57,7 +79,7 @@ Once you have a complete database, perform these steps:
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
-## Bonus (Optional)
+## <span style="color:tan"> Bonus (Optional)</span>
 
 As you examine the data, you begin to suspect that the dataset is fake. Maybe your boss gave you spurious data in order to test the data engineering skills of a new employee? To confirm your hunch, you decide to create a visualization of the data to present to your boss. Follow these steps: 
 
@@ -78,7 +100,7 @@ As you examine the data, you begin to suspect that the dataset is fake. Maybe yo
 3. Create a bar chart of average salary by title.
 
 
-## Submission
+## <span style="color:tan"> Submission</span>
 
 * Create an image file of your ERD.
 
@@ -92,13 +114,13 @@ As you examine the data, you begin to suspect that the dataset is fake. Maybe yo
 
 * Ensure your repository has regular commits and a thorough README.md file
 
-## Rubric
+## <span style="color:tan"> Rubric</span>
 
 [Unit 9 Homework Rubric](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
 
 - - -
 
-## References
+## <span style="color:tan"> References</span>
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
 
