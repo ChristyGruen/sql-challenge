@@ -15,7 +15,7 @@ Data Analysis:
 * sqlchallenge_data_analysis.sql
 
 Bonus Analysis in Pandas:
-*sql_challenge_bonus.ipynb
+* sql_challenge_bonus.ipynb
 
 --
 
